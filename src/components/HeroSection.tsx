@@ -110,7 +110,7 @@ export function HeroSection() {
         {/* Portrait */}
         <div className="relative w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden shadow-2xl ring-4 ring-white/50 backdrop-blur-sm">
           <img
-            <img src={heroImage} />
+            src={heroImage}
             alt="Kashmira Borgoyary"
             className="w-full h-full object-cover"
             onError={(e) => {
