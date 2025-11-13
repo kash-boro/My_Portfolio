@@ -105,7 +105,8 @@ export function HeroSection() {
         {/* Profile Image */}
         <div className="relative w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden shadow-2xl ring-4 ring-white/50 backdrop-blur-sm">
           <ImageWithFallback
-          src="/Portfolio/assets/images/profile.png"
+          src="/Portfolio/images/profile.png"
+
           alt="Kashmira Borgoyary"
   className="w-full h-full object-cover"/>
         </div>
