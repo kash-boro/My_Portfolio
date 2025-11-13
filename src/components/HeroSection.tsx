@@ -38,7 +38,7 @@ export function HeroSection() {
 
   return (
     <section className="relative min-h-screen flex flex-col items-center justify-center px-4 py-20 overflow-hidden">
-
+      
       {/* Floating Social Buttons */}
       <motion.div
         initial={{ opacity: 0, x: -50 }}
@@ -72,7 +72,7 @@ export function HeroSection() {
         </a>
       </motion.div>
 
-      {/* Concentric Rings + Portrait */}
+      {/* Concentric Rings + Profile */}
       <motion.div
         initial={{ opacity: 0, scale: 0.8 }}
         animate={{ opacity: 1, scale: 1 }}
