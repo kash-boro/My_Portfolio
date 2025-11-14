@@ -3,20 +3,20 @@ import { Github, ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "CareConnect",
-    description:
-      "An innovative assistance booking application designed to help elderly and disabled individuals connect with caregivers and service providers seamlessly.",
-    tags: ["Flutter", "Dart", "MySQL"],
-    github: "https://github.com/kash-boro/CareConnect",
-    gradient: "from-[#7DECC6] to-[#C6B4FF]",
-  },
-  {
     title: "Plant Nursery Management System",
     description:
       "A comprehensive nursery management system built with Kotlin and Firebase, enabling efficient inventory tracking, plant care scheduling, and customer management.",
     tags: ["Kotlin", "Firebase", "Android"],
     github: "https://github.com/kash-boro/NMS",
     gradient: "from-[#C6B4FF] to-[#DDF2FF]",
+  },
+  {
+    title: "CareConnect",
+    description:
+      "An innovative assistance booking application designed to help elderly and disabled individuals connect with caregivers and service providers seamlessly.",
+    tags: ["Flutter", "Dart", "MySQL"],
+    github: "https://github.com/kash-boro/CareConnect",
+    gradient: "from-[#7DECC6] to-[#C6B4FF]",
   },
 ];
 
