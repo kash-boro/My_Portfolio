@@ -5,7 +5,7 @@ const certifications = [
   {
     title: "IBM Artificial Intelligence Analyst",
     issuer: "IBM",
-    date: "2024",
+    date: "2025",
     description:
       "Comprehensive training in AI fundamentals, machine learning algorithms, and practical applications of AI in business contexts.",
     icon: "🤖",
@@ -14,7 +14,7 @@ const certifications = [
   {
     title: "Programming in Java",
     issuer: "NPTEL (IIT Kharagpur)",
-    date: "2023",
+    date: "2024",
     description:
       "In-depth certification covering core Java concepts, OOP principles, data structures, and advanced programming techniques.",
     icon: "☕",
@@ -23,8 +23,7 @@ const certifications = [
   {
     title: "Database Technologies",
     issuer: "NIELIT",
-    date: "2022",
-    duration: "200 hours",
+    duration: "2024",
     description:
       "Extensive training in database design, SQL, normalization, and modern database management systems including MySQL and MongoDB.",
     icon: "💾",
