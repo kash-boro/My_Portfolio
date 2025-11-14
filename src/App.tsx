@@ -4,7 +4,6 @@ import { EducationTimeline } from "./components/EducationTimeline";
 import { SkillsSection } from "./components/SkillsSection";
 import { ProjectsSection } from "./components/ProjectsSection";
 import { CertificationsSection } from "./components/CertificationsSection";
-import { ResearchSection } from "./components/ResearchSection";
 import { AchievementsSection } from "./components/AchievementsSection";
 import { ContactSection } from "./components/ContactSection";
 import { Footer } from "./components/Footer";
@@ -17,8 +16,7 @@ export default function App() {
       <EducationTimeline />
       <SkillsSection />
       <ProjectsSection />
-      <CertificationsSection />
-      <ResearchSection />
+  <CertificationsSection />
       <AchievementsSection />
       <ContactSection />
       <Footer />
