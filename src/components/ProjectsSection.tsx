@@ -2,7 +2,7 @@ import { motion } from "motion/react";
 import { Github, ExternalLink } from "lucide-react";
 
 const projects = [
-  {
+{
     title: "Plant Nursery Management System",
     description:
       "A comprehensive nursery management system built with Kotlin and Firebase, enabling efficient inventory tracking, plant care scheduling, and customer management.",
@@ -30,7 +30,7 @@ export function ProjectsSection() {
         transition={{ duration: 0.8 }}
         className="text-4xl md:text-5xl text-center mb-16 bg-gradient-to-r from-[#7DECC6] to-[#C6B4FF] bg-clip-text text-transparent"
       >
-        Featured Projects
+        Projects
       </motion.h2>
 
       <div className="grid md:grid-cols-2 gap-8">
